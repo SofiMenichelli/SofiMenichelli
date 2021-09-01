@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hola 👋, soy Sofia Maria Victoria Menichelli</h1>
 <h3 align="center">Desarrolladora Web - Full Stack Java (Argentina)</h3>
 
