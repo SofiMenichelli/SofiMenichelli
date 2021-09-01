@@ -7,7 +7,7 @@
 
 - 👯 Proyecto Grupal [LollaPalooza](https://lollapalooza-mindhub.herokuapp.com/index.html)
 
-- 🏦 Mi primer proyecto Java && Vue.js [Homebanking](https://homebanking-sofi.herokuapp.com/)
+- 🏦 Mi primer proyecto Java && Vue.js [Homebanking](https://homebanking-sofi.herokuapp.com/web/index.html)
 
 - 👨‍💻 Todos mis proyectos estan disponibles en: (En proceso) [https://sofimenichelli.netlify.app](https://sofimenichelli.netlify.app)
 
