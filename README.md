@@ -9,7 +9,7 @@
 
 - 🏦 Mi primer proyecto Java && Vue.js [Homebanking](https://homebanking-sofi.herokuapp.com/web/index.html)
 
-- 👨‍💻 Todos mis proyectos estan disponibles en: (En proceso) <--[https://sofimenichelli.netlify.app](https://sofimenichelli.netlify.app)-->
+- 👨‍💻 Todos mis proyectos estan disponibles en: (En proceso) <--[https://sofiamenichelli.netlify.app](https://sofiamenichelli.netlify.app)-->
 
 - 💬 Preguntame Sobre **Java, Spring, Vue.js, Javascript, HTML5, CSS3...**
 
