@@ -5,7 +5,7 @@
 
 - 🌱 Estoy haciendo un curso de **Doker**
 
-- 👯 Proyecto Grupal [LollaPalooza](https://lollapalooza-mindhub.herokuapp.com/index.html)
+- 👯 Proyecto Grupal [LollaPalooza](https://lollapalooza-ecommerce.herokuapp.com/)
 
 - 🏦 Mi primer proyecto Java && Vue.js [Homebanking](https://homebanking-sofi.herokuapp.com/web/index.html)
 
