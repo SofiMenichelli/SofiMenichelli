@@ -3,13 +3,11 @@
 
 - 🔭 Actualmente estoy trabajando indenpendiente [Salvo](https://github.com/SofiMenichelli/Salvo)
 
-- 🌱 Estoy haciendo un curso de **Doker**
-
 - 👯 Proyecto Grupal [LollaPalooza](https://lollapalooza-ecommerce.herokuapp.com/)
 
 - 🏦 Mi primer proyecto Java && Vue.js [Homebanking](https://homebanking-sofi.herokuapp.com/web/index.html)
 
-- 👨‍💻 Todos mis proyectos estan disponibles en: (En proceso) <--[https://sofiamenichelli.netlify.app](https://sofiamenichelli.netlify.app)-->
+- 👨‍💻 Todos mis proyectos estan disponibles en: [https://sofiamenichelli.netlify.app](https://sofiamenichelli.netlify.app)
 
 - 💬 Preguntame Sobre **Java, Spring, Vue.js, Javascript, HTML5, CSS3...**
 
